@@ -14,7 +14,7 @@ Keep an eye on this repo for updates!
 A detailed description of these plug-ins can be found on the following website.\
 *Right now, this website is only available on desktop versions. Sorry mobile users!*
 
-[Learn more here!](https://www.orderbydisorder.com/plugins)
+[Learn more here!](https://www.orderbydisorder.com/plugins.html)
 
 
 ## Installation
