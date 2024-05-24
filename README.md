@@ -33,6 +33,10 @@ I recommend creating a new MIDI track containing both the input and mothership p
 I'm Ties, a fresh developer and seasoned musician. I've been interested in combining visual and sonic content for a while now, and decided to start developing my own plug-in suite in Max for Live in January '24. 
 
 
+## Discussions
+Take a look at the 'discussions' tab to report bugs, give feedback, or ask the community for help. I will try to be as active as possible and respond to everything!
+
+
 ## Support
 For support, email tiesvdp@gmail.com.
 
