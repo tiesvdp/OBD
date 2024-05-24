@@ -18,8 +18,13 @@ A detailed description of these plug-ins can be found on the following website.\
 
 
 ## Installation
+To download these plugins, follow these steps:
+- Click on the green "Code" button on the top right of the repository.
+- Click on "download ZIP".
+- Unzip the downloaded folder.
+- Just drag the plugins into your Ableton session!
 
-Just download and drag into your Ableton session! I recommend creating a new MIDI track containing both the input and mothership plugin to handle the video processing on a single track.
+I recommend creating a new MIDI track containing both the input and mothership plugin to handle the video processing on a single track.
 
     
 
